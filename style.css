@@ -1,4 +1,6 @@
 body, html {
+    font-family: "Permanent Marker", cursive;
+    font-optical-sizing: auto;
     height: 100%;
     margin: 0;
     overflow: hidden;
